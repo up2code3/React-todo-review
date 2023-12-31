@@ -9,5 +9,5 @@ const AddTodoForm = () => {
     </form>
   )
 };
-
+console.log('why?')
 export default AddTodoForm;
